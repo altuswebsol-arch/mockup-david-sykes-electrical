@@ -1,5 +1,7 @@
 # David Sykes Electrical — Website Mockup Concept
 
+**Live demo:** https://altuswebsol-arch.github.io/mockup-david-sykes-electrical/
+
 A homepage redesign concept for **David Sykes Electrical** — a electrical business.
 
 ## Design
